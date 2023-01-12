@@ -7,6 +7,7 @@ namespace Blah
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Blah");
         }
     }
 }
